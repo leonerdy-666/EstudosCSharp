@@ -1,0 +1,7 @@
+C:\Users\leona\source\repos\POOmensagem\POOmensagem\bin\Debug\POOmensagem.exe.config
+C:\Users\leona\source\repos\POOmensagem\POOmensagem\bin\Debug\POOmensagem.exe
+C:\Users\leona\source\repos\POOmensagem\POOmensagem\bin\Debug\POOmensagem.pdb
+C:\Users\leona\source\repos\POOmensagem\POOmensagem\obj\Debug\POOmensagem.csproj.AssemblyReference.cache
+C:\Users\leona\source\repos\POOmensagem\POOmensagem\obj\Debug\POOmensagem.csproj.CoreCompileInputs.cache
+C:\Users\leona\source\repos\POOmensagem\POOmensagem\obj\Debug\POOmensagem.exe
+C:\Users\leona\source\repos\POOmensagem\POOmensagem\obj\Debug\POOmensagem.pdb
